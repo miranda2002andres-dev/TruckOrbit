@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_monitoring"
+        android:enabled="true"
+        android:icon="@drawable/ic_nav_monitoring"
+        android:title="@string/monitoring" />
+    <item
+        android:id="@+id/nav_trucks"
+        android:enabled="true"
+        android:icon="@drawable/ic_nav_trucks"
+        android:title="@string/trucks" />
+    <item
+        android:id="@+id/nav_history"
+        android:enabled="true"
+        android:icon="@drawable/ic_nav_history"
+        android:title="@string/history" />
+    <item
+        android:id="@+id/nav_drivers"
+        android:enabled="true"
+        android:icon="@drawable/ic_nav_drivers"
+        android:title="@string/drivers" />
+    <item
+        android:id="@+id/nav_more"
+        android:enabled="true"
+        android:icon="@drawable/ic_nav_more"
+        android:title="@string/more" />
+</menu>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nombre de la app -->
+    <string name="app_name">Ubi</string>
+    
+    <!-- Pantalla de bienvenida (Onboarding) -->
+    <string name="real_time_gps">Rastreo GPS en tiempo real</string>
+    <string name="gps_tracking_desc">Seguimiento de flota y gestión de camiones. Protege tu vehículo.</string>
+    <string name="lets_get_started">Vamos a Empezar</string>
+
+    <!-- Inicio de sesión / Registro -->
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="sign_in">Iniciar Sesión</string>
+    <string name="forgotten_password">¿Olvidaste tu contraseña?</string>
+    <string name="no_account">¿No tienes una cuenta?</string>
+    <string name="create_account">Crear Cuenta</string>
+
+    <!-- Menú inferior -->
+    <string name="monitoring">Monitoreo</string>
+    <string name="trucks">Camiones</string>
+    <string name="drivers">Conductores</string>
+    <string name="more">Más</string>
+    <string name="history">Recorridos</string>
+</resources>
